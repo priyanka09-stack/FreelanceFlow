@@ -142,7 +142,7 @@ FreelanceFlow/
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 Follow these steps to run FreelanceFlow locally.
 
@@ -217,7 +217,7 @@ The Flask application serves the already-built React frontend from `frontend/dis
 
 ---
 
-## 🔧 Environment Configuration
+##  Environment Configuration
 
 Example `.env` configuration:
 
@@ -238,7 +238,7 @@ Replace the example values with your own local configuration.
 
 ---
 
-## 🎨 Frontend Development
+##  Frontend Development
 
 To work on the React interface with Vite's hot-reload functionality:
 
@@ -269,7 +269,7 @@ This regenerates `frontend/dist`, which is served by Flask.
 ---
 
 
-## 🗄️ Database Implementation
+##  Database Implementation
 
 FreelanceFlow demonstrates several important DBMS concepts.
 
